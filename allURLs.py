@@ -9,11 +9,14 @@
 2 ->http://www.pythonchallenge.com/pc/def/ocr.html
 
     http://pythonchallenge.com/pc/def/y.html ---extra---
-    http://pythonchallenge.com/pc/def/l.html ---extra---
+    
 
 3 ->http://www.pythonchallenge.com/pc/def/equality.html
+
+    http://pythonchallenge.com/pc/def/l.html ---extra---
     
 4 -> 
+
 5 -> 
 6 -> 
 7 -> 
